@@ -1,0 +1,12 @@
+fastapi~=0.99.1
+passlib~=1.7.4
+pydantic~=1.10.11
+uvicorn~=0.22.0
+db-sqlite3
+jose~=1.0.0
+python-multipart
+python-jose
+bcrypt
+httpx
+clearbit
+
